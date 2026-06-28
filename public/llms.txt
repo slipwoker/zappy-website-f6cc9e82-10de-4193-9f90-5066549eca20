@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://tohar-brands-f6cc9e82.zappy5.app
+https://example.com
 ברוכים הבאים ל-Essentials ישראל – מותג אופנה ישראלי שמציע חולצות, מכנסיים קצרים וארוכים שמשלבים סטייל, איכות ונוחות. קנה עכשיו ותיהנה ממשלוח מהיר לכל הארץ.
 
 ### למה Essentials
-https://tohar-brands-f6cc9e82.zappy5.app/why-essentials
+https://example.com/why-essentials
 גלה למה Essentials ישראל מובילה בתחום האופנה הישראלית: בדים מובחרים, מגוון צבעים ומידות, ושירות אישי שהופך כל רכישה לחוויה. הצטרף עכשיו למהפכת הסטייל.
 
 ### הסיפור שלנו
-https://tohar-brands-f6cc9e82.zappy5.app/brand-story
+https://example.com/brand-story
 הכירו את הסיפור של Essentials ישראל – מותג שצמח מתוך אהבה לאופנה נגישה, איכותית ונוחה. קראו איך הפכנו למובילים בביגוד יומיומי שמרגיש כמו עור שני.
 
 ### צור קשר
-https://tohar-brands-f6cc9e82.zappy5.app/contact
+https://example.com/contact
 צריכים עזרה בבחירת המידה או הצבע? צרו קשר עם צוות Essentials ישראל ונשמח לסייע לכם בהזמנה, החזרה או כל שאלה – עם חיוך ושירות מהיר במיוחד.
 
 ### Products
-https://tohar-brands-f6cc9e82.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - tohar_brands
 
 ### Cart
-https://tohar-brands-f6cc9e82.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://tohar-brands-f6cc9e82.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://tohar-brands-f6cc9e82.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://tohar-brands-f6cc9e82.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://tohar-brands-f6cc9e82.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://tohar-brands-f6cc9e82.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - tohar_brands
 
 ### Category
-https://tohar-brands-f6cc9e82.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - tohar_brands
 
 ### תודה שפניתם אלינו
-https://tohar-brands-f6cc9e82.zappy5.app/thank-you
+https://example.com/thank-you
 tohar_brands - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://tohar-brands-f6cc9e82.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://tohar-brands-f6cc9e82.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://tohar-brands-f6cc9e82.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -105,8 +105,8 @@ Fashion E-commerce
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://tohar-brands-f6cc9e82.zappy5.app/sitemap.xml
-- Robots: https://tohar-brands-f6cc9e82.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://tohar-brands-f6cc9e82.zappy5.app/llms-full.txt
-- Products (JSON): https://tohar-brands-f6cc9e82.zappy5.app/products.json
-- Products (Google Merchant RSS): https://tohar-brands-f6cc9e82.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
